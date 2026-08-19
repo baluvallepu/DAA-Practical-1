@@ -38,6 +38,15 @@ In this practical, the factorial of a given number is calculated using an algori
 
 The factorial problem provides a simple way to understand how an algorithm can be used to solve a mathematical problem. It can be implemented using both iterative and recursive approaches. The practical helps in understanding repetition, function calls, and the importance of choosing an efficient approach for solving problems.
 
+# PRACTICAL-7 — COIN CHANGE PROBLEM
+
+## SUMMARY
+
+In this practical, the Coin Change Problem was studied to find the minimum number of coins required to make a given amount. Different coin denominations are considered, and an appropriate method is used to determine the best combination of coins. The problem helps in understanding algorithmic problem-solving and concepts such as dynamic programming and optimization.
+
+## CONCLUSION
+
+The Coin Change Problem demonstrates how algorithms can be used to find an efficient combination of coins for a given amount. Dynamic Programming provides an effective approach for finding the minimum number of coins by solving smaller subproblems and storing their results. This practical helps in understanding optimization techniques and their application to real-world problems.
 
 
 
