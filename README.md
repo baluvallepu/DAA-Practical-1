@@ -27,5 +27,24 @@ In this practical, Heap Sort using a Max Heap was studied and implemented for so
 ## CONCLUSION
 
 Heap Sort using a Max Heap is an efficient and reliable sorting algorithm. It provides a consistent time complexity of O(n log n) for all cases and requires O(1) auxiliary space, excluding the recursion stack. Although it is not stable, it is useful for applications where predictable performance and memory efficiency are important. Overall, Heap Sort is a suitable algorithm for sorting large datasets efficiently.
-CONCLUSION
+
+# PRACTICAL-4 — FACTORIAL PROBLEM
+
+## SUMMARY
+
+In this practical, the factorial of a given number is calculated using an algorithm. The factorial of a positive integer `n` is the product of all positive integers from 1 to `n`, represented as `n!`. For example, `5! = 5 × 4 × 3 × 2 × 1 = 120`. The factorial problem helps in understanding basic programming concepts such as loops, recursion, input handling, and mathematical operations.
+
+## CONCLUSION
+
+The factorial problem provides a simple way to understand how an algorithm can be used to solve a mathematical problem. It can be implemented using both iterative and recursive approaches. The practical helps in understanding repetition, function calls, and the importance of choosing an efficient approach for solving problems.
+
+
+
+
+
+
+
+
+
+
 
