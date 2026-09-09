@@ -58,7 +58,15 @@ Conclusion :
 
 The Dynamic Programming approach provides an efficient solution to the 0/1 Knapsack Problem. It finds the maximum possible value while keeping the total weight within the specified capacity. The algorithm has O(n × W) time complexity and O(n × W) space complexity. Therefore, Dynamic Programming is a suitable technique for solving the Knapsack Problem when the number of items and capacity are manageable.
 
+PRACTICAL-6
 
+Summary :
+
+The Matrix Chain Multiplication problem was implemented using Dynamic Programming. The algorithm finds the most efficient order for multiplying a sequence of matrices by checking different possible multiplication orders and storing the minimum cost of smaller subproblems. This avoids repeatedly calculating the same subproblems.
+
+Conclusion :
+
+Dynamic Programming provides an efficient solution for the Matrix Chain Multiplication problem. It determines the optimal order of matrix multiplication while minimizing the number of scalar multiplications. The algorithm has a time complexity of O(n³) and a space complexity of O(n²). Thus, it is useful for finding an efficient multiplication order when working with a large sequence of matrices.
 
 
 
