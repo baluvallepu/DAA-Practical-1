@@ -81,38 +81,38 @@ PRACTICAL -8
 
 PRACTICAL-9
 
-##Summary :
+## Summary :
 
 In this practical, we implemented Prim’s algorithm using Python to find the Minimum Spanning Tree (MST) of a weighted, undirected graph. The algorithm selects the minimum-weight edge at each step and connects all vertices without forming a cycle.
 
-##Conclusion : Thus, Prim’s algorithm was successfully implemented in Python. The Minimum Spanning Tree was obtained with a minimum total cost of 16, connecting all vertices with the minimum possible edge weight.
+## Conclusion : Thus, Prim’s algorithm was successfully implemented in Python. The Minimum Spanning Tree was obtained with a minimum total cost of 16, connecting all vertices with the minimum possible edge weight.
 
 PRACTICAL-10
 
-##Summary :
+## Summary :
 
 In this practical, we implemented Kruskal’s algorithm using Python to find the Minimum Spanning Tree (MST) of a weighted, undirected graph. The algorithm selects edges in increasing order of weight while avoiding cycles.
 
-##Conclusion :
+## Conclusion :
 
 Thus, Kruskal’s algorithm was successfully implemented in Python. The Minimum Spanning Tree was obtained with a minimum total cost of 16, connecting all five vertices using four edges without forming any cycles.
 
 PRACTICAL-11
 
-##Summary :
+## Summary :
 
 In this practical, we implemented the Floyd–Warshall algorithm using Python to find the shortest distances between all pairs of vertices in a weighted graph. The algorithm updates the distance matrix by considering each vertex as an intermediate vertex.
 
-##Conclusion :
+## Conclusion :
 
 Thus, the Floyd–Warshall algorithm was successfully implemented in Python. The shortest distances between all pairs of vertices were calculated by comparing direct paths with paths through intermediate vertices.
 
 PRACTICAL-12
 
-##Summary :
+## Summary :
 
 In this practical, we implemented the Travelling Salesman Problem (TSP) using Python. The program generates possible routes, calculates the total travel cost of each route, and identifies the route with the minimum cost.
 
-##Conclusion :
+## Conclusion :
 
 Thus, the Travelling Salesman Problem was successfully implemented in Python using the brute-force approach. The optimal tour was found with a minimum travel cost of 80, visiting all cities exactly once and returning to the starting city.
